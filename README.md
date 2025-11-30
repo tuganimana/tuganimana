@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack software developer / I do  Django -Reactjs(NextJs) - Nodejs -ASP.NET, React Native and Flutter<br>🔭 I’m currently working on Fintech projects<br>🌱 I’m currently learning blockchain development<br>👯 I’m looking to collaborate on different open source<br>🤔 I’m looking for help with computers to help children from vulnerable families learn  how to code.<br>💬 Ask me about Software development career<br>📫 How to reach me: telesphore@idatech.rw
+I am a full-stack software developer / I do  Django -Reactjs(NextJs) - Nodejs -ASP.NET, React Native and Flutter<br>🔭 I’m currently working on Fintech projects<br>🌱 I’m currently learning blockchain development<br>👯 I’m looking to collaborate on different open source<br>🤔 I’m looking for help with computers to help children from vulnerable families learn  how to code.<br>💬 Ask me about Software development career<br>📫 How to reach me: business@randa.rw
 
 
 ## 🌐 Socials:
